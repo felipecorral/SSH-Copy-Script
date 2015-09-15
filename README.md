@@ -17,7 +17,7 @@ maquina=$3
 rutar=$4
 if [ "$rutal" != "" ] && [ -n "$usuario" ] && [  "$maquina" != "" ] && [ -n "$rutar" ]
 then
-#echo "entradas bien"
+#echo ""
 
 	#Hacemos ping al servidor remoto para saber si está activo
 	# -q quiet
